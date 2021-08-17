@@ -1,4 +1,4 @@
-# Atheros MINECRAFT Server Bot App
+# Aternos MINECRAFT Server Bot App
 
 Checkout the sample.mp4 to know how it works.
 
