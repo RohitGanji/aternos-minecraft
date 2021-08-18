@@ -1,6 +1,6 @@
 # Aternos MINECRAFT Server Bot App
 
-<img src="sample.png" align="right" width="200"/>
+<img src="image.png" align="right" width="200"/>
 
 Checkout the sample.mp4 to know how it works.
 
