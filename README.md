@@ -8,4 +8,7 @@ You must have experience with Atheros MINECRAFT server to understand the terms i
 
 Change the headers with your account's headers for it to work.
 
-<img src="image.png"/>
+<p float="left" align="center">
+  <img src="/image.png"  width=50%/> 
+</p>
+
